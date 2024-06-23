@@ -4,7 +4,7 @@ alert("Hola Mundo!");
 // let + variable (para crear una variable)
 // prompt para dar una indicación al usuario
 let numeroSecreto = 6;
-let numeroUsuario = prompt("Indica un número por favor:");
+let numeroUsuario = prompt("Indica un número del 1 al 10 por favor:");
 
 /* console.log(variable) para capturar la variable en la memoria del sistema */
 console.log(numeroUsuario);
